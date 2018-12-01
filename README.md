@@ -1,4 +1,4 @@
-# Todo Applicatoin Sample using Spring Boot
+# Todo Application Sample using Spring Boot
 This is my first simple todo app for a spring boot project
 
 # Exposed methods
