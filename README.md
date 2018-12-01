@@ -1,7 +1,7 @@
 # Todo Application Sample using Spring Boot
 This is my first simple todo app for a spring boot project
 
-# Exposed methods
+## Exposed methods
 ### Todo API
 
 **1. Get Todo by id. (Http Method: GET)**
