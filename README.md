@@ -45,3 +45,5 @@ http://localhost:8080/api/todos/items/{id}
 ```
 http://localhost:8080/api/todos/items/{id}
 ```
+## Demo application on Heroku
+https://paii-todo.herokuapp.com/api/{method}
