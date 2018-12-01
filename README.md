@@ -47,3 +47,6 @@ http://localhost:8080/api/todos/items/{id}
 ```
 ## Demo application on Heroku
 https://paii-todo.herokuapp.com/api/{method}
+
+## API Documentation
+https://paii-todo.herokuapp.com/api/swagger-ui.html
