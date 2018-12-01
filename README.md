@@ -2,7 +2,7 @@
 This is my first simple todo app for a spring boot project
 
 # Exposed methods
-** Todo API **
+### Todo API
 
 **1. Get Todo by id. (Http Method: GET)**
 ```
@@ -29,7 +29,7 @@ http://localhost:8080/api/todos/{todo_id}
 http://localhost:8080/api/todos/{todo_id}
 ```
 
-** Todo Item API **
+### Todo Item API
 
 **1. Create Todo Item. (Http Method: POST)**
 ```
